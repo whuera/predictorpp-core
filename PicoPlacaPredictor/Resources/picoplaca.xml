@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2006 sp2 U (http://www.altova.com) by www.serials.ws (www.serials.ws) -->
+<semana>
+	<dia id="lunes">
+		<name>2</name>
+		<picoini>1</picoini>
+		<picofin>2</picofin>
+		<morninghourini>07:00</morninghourini>
+		<morninghourfin>09:30</morninghourfin>
+		<afternoonhourini>16:00</afternoonhourini>
+		<afternoonhourfin>19:30</afternoonhourfin>
+	</dia>
+	<dia id="martes">
+		<name>3</name>
+		<picoini>3</picoini>
+		<picofin>4</picofin>
+		<morninghourini>07:00</morninghourini>
+		<morninghourfin>09:30</morninghourfin>
+		<afternoonhourini>16:00</afternoonhourini>
+		<afternoonhourfin>19:30</afternoonhourfin>
+	</dia>
+	<dia id="miercoles">
+		<name>4</name>
+		<picoini>5</picoini>
+		<picofin>6</picofin>
+		<morninghourini>07:00</morninghourini>
+		<morninghourfin>09:30</morninghourfin>
+		<afternoonhourini>16:00</afternoonhourini>
+		<afternoonhourfin>19:30</afternoonhourfin>
+	</dia>
+	<dia id="jueves">
+		<name>5</name>
+		<picoini>7</picoini>
+		<picofin>8</picofin>
+		<morninghourini>07:00</morninghourini>
+		<morninghourfin>09:30</morninghourfin>
+		<afternoonhourini>16:00</afternoonhourini>
+		<afternoonhourfin>19:30</afternoonhourfin>
+	</dia>
+	<dia id="viernes">
+		<name>6</name>
+		<picoini>9</picoini>
+		<picofin>0</picofin>
+		<morninghourini>07:00</morninghourini>
+		<morninghourfin>09:30</morninghourfin>
+		<afternoonhourini>16:00</afternoonhourini>
+		<afternoonhourfin>19:30</afternoonhourfin>
+	</dia>
+</semana>
